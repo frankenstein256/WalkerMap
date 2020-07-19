@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300355519068",
+    "firebase_url": "https://deneme-ca201.firebaseio.com",
+    "project_id": "deneme-ca201",
+    "storage_bucket": "deneme-ca201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300355519068:android:87f911b5cdc82cee021c99",
+        "android_client_info": {
+          "package_name": "com.iteyes.placesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300355519068-dktgs5uuo785dshmjuaolrf4vki1ttvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iteyes.placesproject",
+            "certificate_hash": "c9f0bd10d0e0c9b089ad1060e59f4f0eef3ffb1a"
+          }
+        },
+        {
+          "client_id": "300355519068-af0i2hjnv0ej1q750tbpbpj5m7116j7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3yehVsI3_YEc1r3qUeH2DRqrt17Par94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300355519068-af0i2hjnv0ej1q750tbpbpj5m7116j7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalkingMap</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyBhs2LXC9uNJZJNR9I9KiR_B0ZD8YIisM0</string>
+</resources>
